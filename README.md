@@ -8,7 +8,7 @@ TÍNH NĂNG:
 
 ★ Ghi chép thu chi nhanh và tiện lợi: 
 
-- Ghi lại đã chi/tiêu khoản gì, từ ví/tài khoản nào, vào lúc nào để theo dõi luồng tiền.
+★ Ghi lại đã chi/tiêu khoản gì, từ ví/tài khoản nào, vào lúc nào để theo dõi luồng tiền.
 
 ★ Theo dõi số tiền vay/nợ để nhắc nhở giúp thanh toán đầy đủ. 
 
