@@ -1,5 +1,4 @@
-# pig_kepper
-
+# Pig Keeper
 PigKeeper là ứng dụng quản lý chi tiêu cá nhân, chi tiêu gia đình hoặc tập thể với phiên bản đơn giản dễ dùng. Sổ Thu Chi không những giúp bạn ghi lại từng khoản chi tiêu một cách chi tiết mà còn sở hữu những công cụ giúp bạn làm chủ đồng tiền như: đặt ngân sách chi tiêu, quản lý nhiều ví và tài khoản, quản lý tiết kiệm, tiền gửi, v.v...
 
 TÍNH NĂNG:
