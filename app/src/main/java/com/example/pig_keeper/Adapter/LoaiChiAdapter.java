@@ -3,8 +3,6 @@ package com.example.pig_keeper.Adapter;
 import android.app.Dialog;
 import android.content.Context;
 import android.graphics.Color;
-import android.support.design.widget.Snackbar;
-import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,14 +12,16 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.ps10389_lequangminh_assigment.DAO.LoaiChiDAO;
-import com.example.ps10389_lequangminh_assigment.Model.LoaiChi;
-import com.example.ps10389_lequangminh_assigment.R;
+import androidx.recyclerview.widget.RecyclerView;
+import com.example.pig_keeper.DAO.LoaiChiDAO;
+import com.example.pig_keeper.Model.LoaiChi;
+import com.example.pig_keeper.R;
+import com.google.android.material.snackbar.Snackbar;
 
 import java.util.List;
 
 
-class LoaiChiViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
+    class LoaiChiViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
     public TextView txt_LoaiChi;
     public ImageButton btnDel, btnEdit;

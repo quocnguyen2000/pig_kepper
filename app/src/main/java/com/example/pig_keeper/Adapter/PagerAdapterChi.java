@@ -1,11 +1,11 @@
 package com.example.pig_keeper.Adapter;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentStatePagerAdapter;
 
-import com.example.ps10389_lequangminh_assigment.TabPagerFragment.KhoanChiFragment;
-import com.example.ps10389_lequangminh_assigment.TabPagerFragment.LoaiChiFragment;
+import com.example.pig_keeper.TabPagerFragment.KhoanChiFragment;
+import com.example.pig_keeper.TabPagerFragment.LoaiChiFragment;
 
 public class PagerAdapterChi extends FragmentStatePagerAdapter {
     public PagerAdapterChi(FragmentManager fragmentManager) {

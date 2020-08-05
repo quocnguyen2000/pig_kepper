@@ -6,8 +6,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.example.ps10389_lequangminh_assigment.Database.DbHelper;
-import com.example.ps10389_lequangminh_assigment.Model.LoaiChi;
+import com.example.pig_keeper.Database.DbHelper;
+import com.example.pig_keeper.Model.LoaiChi;
 
 import java.util.ArrayList;
 import java.util.List;

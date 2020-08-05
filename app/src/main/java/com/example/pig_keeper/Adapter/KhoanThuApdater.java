@@ -2,7 +2,8 @@ package com.example.pig_keeper.Adapter;
 
 import android.content.Context;
 import androidx.cardview.widget.CardView;
-import androidx.cardview.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
+
 import android.view.ContextMenu;
 import android.view.LayoutInflater;
 import android.view.Menu;

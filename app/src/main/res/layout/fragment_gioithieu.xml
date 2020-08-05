@@ -51,7 +51,7 @@
             android:layout_height="wrap_content"
             android:lineSpacingExtra="8dp"
             android:padding="50dp"
-            android:text="ASSIGMENT Thiết Kế Giao Diện Android                                                                                                                                          Lê Quang Minh-PS10389"
+            android:text="PigKeeper là ứng dụng quản lý chi tiêu cá nhân. Ứng dụng cho phép quản lý các mục thu chi, báo cáo thống kê chi tiết và dễ hỉu.                                                                                                                                                                 Tác Giả: Nguyễn Đình Quốc"
 
             android:textSize="20sp" />
 

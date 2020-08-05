@@ -2,23 +2,24 @@ package com.example.pig_keeper.Fragments;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.design.widget.BottomNavigationView;
-import android.support.design.widget.TabLayout;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.view.ViewPager;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.FragmentActivity;
+import androidx.fragment.app.FragmentManager;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.ps10389_lequangminh_assigment.Adapter.PagerAdapterThu;
-import com.example.ps10389_lequangminh_assigment.R;
-import com.example.ps10389_lequangminh_assigment.TabPagerFragment.KhoanChiFragment;
-import com.example.ps10389_lequangminh_assigment.TabPagerFragment.LoaiChiFragment;
+import androidx.fragment.app.Fragment;
+import androidx.viewpager.widget.ViewPager;
+
+import com.example.pig_keeper.Adapter.PagerAdapterThu;
+import com.example.pig_keeper.R;
+import com.example.pig_keeper.TabPagerFragment.KhoanChiFragment;
+import com.example.pig_keeper.TabPagerFragment.LoaiChiFragment;
+import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.google.android.material.tabs.TabLayout;
 
 public class ChiFragment extends Fragment {
 
@@ -40,7 +41,7 @@ public class ChiFragment extends Fragment {
 
         getFragmentManager().beginTransaction().replace(R.id.fragment_container1,
                 new KhoanChiFragment()).commit();
-    return view;
+        return view;
     }
 
     private void addControl() {
@@ -102,4 +103,3 @@ public class ChiFragment extends Fragment {
         super.onResume();
     }
 }
-
