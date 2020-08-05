@@ -1,6 +1,4 @@
 # Pig Keeper
-<img src="app/src/main/res/drawable-v24/intro.png" width="310" height="640">
-<img src="app/src/main/res/drawable-v24/intro_ago.png" width="310" height="640">
 
 PigKeeper là ứng dụng quản lý chi tiêu cá nhân, chi tiêu gia đình hoặc tập thể với phiên bản đơn giản dễ dùng. Sổ Thu Chi không những giúp bạn ghi lại từng khoản chi tiêu một cách chi tiết mà còn sở hữu những công cụ giúp bạn làm chủ đồng tiền như: đặt ngân sách chi tiêu, quản lý nhiều ví và tài khoản, quản lý tiết kiệm, tiền gửi, v.v...
 
@@ -15,5 +13,8 @@ TÍNH NĂNG:
 ★ Theo dõi số tiền vay/nợ để nhắc nhở giúp thanh toán đầy đủ. 
 
 ★ Báo cáo theo hạng mục
+
+<img src="app/src/main/res/drawable-v24/intro.png" width="310" height="640">
+<img src="app/src/main/res/drawable-v24/intro_ago.png" width="310" height="640">
 
 
